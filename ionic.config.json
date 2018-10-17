@@ -1,0 +1,7 @@
+{
+  "name": "hiw",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
